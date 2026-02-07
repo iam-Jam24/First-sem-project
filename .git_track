@@ -4,3 +4,4 @@ Commit 3: Configure database connection settings
 Commit 4: Implement User data model
 Commit 5: Implement Message data model
 Commit 6: Implement Room data model
+Commit 7: Add authentication middleware for protected routes
