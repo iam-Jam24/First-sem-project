@@ -5,3 +5,4 @@ Commit 4: Implement User data model
 Commit 5: Implement Message data model
 Commit 6: Implement Room data model
 Commit 7: Add authentication middleware for protected routes
+Commit 8: Implement user authentication controllers
