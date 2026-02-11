@@ -7,3 +7,4 @@ Commit 6: Implement Room data model
 Commit 7: Add authentication middleware for protected routes
 Commit 8: Implement user authentication controllers
 Commit 9: Implement user management controllers
+Commit 10: Add authentication and user routes
