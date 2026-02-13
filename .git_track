@@ -9,3 +9,4 @@ Commit 8: Implement user authentication controllers
 Commit 9: Implement user management controllers
 Commit 10: Add authentication and user routes
 Commit 11: Set up socket.io handler for real-time events
+Commit 12: Implement message and room controllers
