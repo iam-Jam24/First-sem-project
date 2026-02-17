@@ -12,3 +12,4 @@ Commit 11: Set up socket.io handler for real-time events
 Commit 12: Implement message and room controllers
 Commit 13: Add message and room routing logic
 Commit 14: Initialize frontend React application with Vite
+Commit 15: Add base frontend styling and main entry points
