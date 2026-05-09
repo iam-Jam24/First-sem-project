@@ -18,6 +18,12 @@ This is a modern, full-stack real-time chat application built with React, Node.j
 ### 1. Database Setup
 1. Ensure MongoDB is running locally on `mongodb://127.0.0.1:27017` or update the `MONGO_URI` environment variable in `backend/config/db.js` with your MongoDB Atlas connection string.
 
+## Project Status
+Current Version: 1.0.0
+Last Updated: May 2026
+
+The project is currently in active development, with all core real-time features implemented and stable.
+
 ### 2. Backend Setup
 1. Navigate to the `backend` directory:
    ```bash
